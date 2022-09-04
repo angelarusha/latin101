@@ -1,3 +1,6 @@
+**+1. Good!  Question below for further consideration.**
+
+
 How many principal parts does a regular Latin verb have?
 A regular latin verb has four principal parts (first, second, third, and fourth). 
 
@@ -11,10 +14,10 @@ The first principal part of interficiō maintains the similar end of -ciō as in
 Memorize the principal parts of the verbs in the vocabulary list for unit 1, then answer the following questions.
 name two verbs belonging to the fourth conjugation. How regular are their principal parts?
 
-The fourth past principal parts of visus (to see) and ventus (to come) share the regular ending of -us. 
+The fourth past principal parts of visus (to see) and ventus (to come) share the regular ending of -us. ❓ *Are there any other similarities you could pick out?*
 
 compare the principal parts of the verbs capiō “to seize” and facio “to do, make”. How are the changes in their principal parts similar?
 
-	The first principal part of capiō shares the same ending with faciō as -iō. The second principal part of capĕre shares the same ending with facĕre as -ĕre. The third principal part of cēpī shares the same vowels with fēcī. The fourth principal part of captus shares the same ending with factus as -tus. 
+The first principal part of capiō shares the same ending with faciō as -iō. The second principal part of capĕre shares the same ending with facĕre as -ĕre. The third principal part of cēpī shares the same vowels with fēcī. The fourth principal part of captus shares the same ending with factus as -tus. 
 
 
