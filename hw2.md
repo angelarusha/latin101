@@ -8,7 +8,7 @@ The lion of Nemea was killed by Hercules. (Lion is masculine in Latin.) interfec
 
 Apollo was given into slavery to Admetus, king of Thessaly. datus est
 
-Messengers were sent. missa sunt 
+Messengers were sent. missi sunt 
 
 The daughters were given in marriage. datae sunt 
 
