@@ -1,3 +1,5 @@
+**+1 Needs revisions**
+
 Perfect active: amauit 
 Perfect Passive: amatus est / amata est 
 Imperfect Active: amabat 
@@ -5,13 +7,13 @@ Imperfect Passive: amabatur
 
 Perfect active: audiuērunt 
 Perfect Passive: audīti sunt / audītae sunt 
-Imperfect Active: audībant 
-Imperfect Passive: audībantur 
+Imperfect Active: audībant  ❌
+Imperfect Passive: audībantur  ❌
 
 Perfect active: cēpit 
 Perfect Passive: captus est / capta est 
-Imperfect Active: capĕbat 
-Imperfect Passive: capĕbatur 
+Imperfect Active: capĕbat  ❌
+Imperfect Passive: capĕbatur  ❌
 
 Identify: Person, number, tense, mood, voice, first principal part 
   Uenērunt: Indicative, Perfect active, third person plural, Ueniō
