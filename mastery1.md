@@ -1,4 +1,7 @@
-List each verb and fully identify it: 
+
+**+1 Needs revisions**
+
+List each verb and fully identify it: ✅
 Occidit: strike down in third person singular, perfect active indicative 
 Interficiebat: kill in third person singular, imperfect active indicative 
 Necauit: slay in third person singular, perfect active indicative 
@@ -7,7 +10,7 @@ Uenit: to come in third person singular, perfect active indicative
 Contendit: to fight in third person singular, perfecta active indicative
 Misit: to send in third person singular, perfect active indicative
 
-The previous god (prior deus): dei (2nd declension) 
+The previous god (prior deus): dei (2nd declension) ❌ 
 Singular:
 Nominative: deus priorus, deum priorum
 Genitive: dei priori
@@ -26,23 +29,23 @@ singular:
 Nominative: illa nauis
 Genitive: illius nauis
 Dative: illi naui
-Accusative: illam nauam
-Ablative: illa naua
+Accusative: illam nauam❌
+Ablative: illa naua❌
 Plural: 
 Nominative: illae naues
-Genitive: illarum nauum
-Dative: illis nauis
-Accusative: illas nauas
-Ablative: illis nauis
+Genitive: illarum nauum❌
+Dative: illis nauis❌
+Accusative: illas nauas❌
+Ablative: illis nauis❌
 
-Verbs: third person singular capio: 
+Verbs: third person singular capio:  ✅
 Perfect active: cepit
 Perfect passive: capta est
 Imperfect Active: capiebat
 Imperfect Passive: capiebatur
 
 Verbs: third person plural uideo 
-Perfect active: uiserunt
-Perfect Passive: uida sunt 
+Perfect active: uiserunt  
+Perfect Passive: uida sunt  ❌ 
 Imperfect Active: uidebant
 Imperfect Passive: uidebantur
