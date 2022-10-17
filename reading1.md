@@ -19,4 +19,4 @@ Apposita est is in the perfect passive, third person singular, and indicative. B
 Eam refers to Hesiones. 
 
 Translation: 
-Hercules killed Antaeus, the son of Earth, in Libya. He was killing his guests. He slayed them by wrestling. He killed Cygnus, son of Mars, with weapons. Mars came with weapons on account of his son to fight with him but Iouis sent a lightning bolt in between them. The whale Hesione placed next to Troy was killed.❌ When she had not returned, Laomedon, the father of Hesione, was killed by arrow. ❌
+Hercules killed Antaeus, the son of Earth, in Libya. He was killing his guests. He slayed them by wrestling. He killed Cygnus, son of Mars, with weapons. Mars came with weapons on account of his son to fight with him but Iouis sent a lightning bolt in between them. Hesione was placed next the whale at Troy. He (the whale) died. When she (Hesione) did not return, Laomedon, the father of Hesione, killed the whale with arrows. 
