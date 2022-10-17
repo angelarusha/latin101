@@ -10,7 +10,7 @@ The antecedent of hic is Hercules. ❌
 (5) What case is armis?
 Armis is in the ablative. ✅
 (6) Explain the construction cum eo?
-Cum eo is a preposition phrase indicating position❌. When cum is attached to eo which is in the ablative case, it indicates “with him.” 
+Cum eo is a preposition phrase indicating position❌. When cum is attached to eo which is in the ablative case, it indicates “with him.” Mars is fighting on account of his son with Hercules (cum eo). 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
 Fulmen is in the nominative case.❌ 
 (8) Fully identify the form of apposita est.✅
