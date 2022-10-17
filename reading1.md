@@ -6,7 +6,7 @@ Antaeum belongs to the second declension. ✅
 (3) What case is terrae and what other noun is it working with?
 Terrae is in the genitive case. It is working with filium which is in the accusative case to describe Antaeum as the son of Earth. ✅
 (4) What is the antecedent of hic?
-The antecedent of hic is Hercules. ❌
+The antecedent of hic is Hercules. ❌ The antecedent of hic is Antaeus.
 (5) What case is armis?
 Armis is in the ablative. ✅
 (6) Explain the construction cum eo?
@@ -19,4 +19,4 @@ Apposita est is in the perfect passive, third person singular, and indicative. B
 Eam refers to Hesiones. 
 
 Translation: 
-Hercules killed Antaeus, the son of Earth, in Libya. He was killing his guests. He slayed them by wrestling. He killed Cygnus, son of Mars, with weapons. Mars came with weapons on account of his son to fight with him but Iouis sent a lightning bolt in between them. Hesione was placed next the whale at Troy. He (the whale) died. When she (Hesione) did not return, Laomedon, the father of Hesione, killed the whale with arrows. 
+Hercules killed Antaeus, the son of Earth, in Libya. Antaeus was killing his guests. Hercules slayed them by wrestling. He killed Cygnus, son of Mars, with weapons. Mars came with weapons on account of his son to fight with him but Iouis sent a lightning bolt in between them. Hesione was placed next the whale at Troy. He (the whale) died. When she (Hesione) did not return, Laomedon, the father of Hesione, killed the whale with arrows. 
