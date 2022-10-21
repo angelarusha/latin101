@@ -1,5 +1,5 @@
 
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 List each verb and fully identify it: ✅
 Occidit: strike down in third person singular, perfect active indicative 
@@ -10,7 +10,7 @@ Uenit: to come in third person singular, perfect active indicative
 Contendit: to fight in third person singular, perfecta active indicative
 Misit: to send in third person singular, perfect active indicative
 
-The previous god (prior deus): dei (2nd declension) ❌ 
+The previous god (prior deus): dei (2nd declension) ✅
 Singular:
 Nominative: deus prior
 Genitive: dei prioris
@@ -24,13 +24,13 @@ Dative: deis prioris ... prioribus
 Accusative: deos prioros ... priores
 Ablative: deis prioris ... prioribus 
 
-Pronouns: the former-mentioned ship 
+Pronouns: the former-mentioned ship  ✅
 singular:
 Nominative: illa nauis 
 Genitive: illius nauis
 Dative: illi naui
 Accusative: illam nauam❌ ... illam nauem 
-Ablative: illa naua❌ illa naue 
+Ablative: illa naua❌ illa naui
 Plural: 
 Nominative: illae naues
 Genitive: illarum nauum❌ illarum nauium
@@ -46,6 +46,6 @@ Imperfect Passive: capiebatur
 
 Verbs: third person plural uideo 
 Perfect active: uiserunt  
-Perfect Passive: uida sunt  ❌ uisi, uisae, uisa sunt 
+Perfect Passive: uida sunt  ❌ uisi, uisae, uisa sunt ✅
 Imperfect Active: uidebant
 Imperfect Passive: uidebantur
