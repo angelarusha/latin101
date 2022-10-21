@@ -12,11 +12,11 @@ Armis is in the ablative. ✅
 (6) Explain the construction cum eo?
 Cum eo is a preposition phrase indicating position❌. When cum is attached to eo which is in the ablative case, it indicates “with him.” Mars is fighting on account of his son with Hercules (cum eo). 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
-Fulmen is in the nominative case.❌ 
+Fulmen is in the nominative case.❌ Fulmen is the direct object.
 (8) Fully identify the form of apposita est.✅
 Apposita est is in the perfect passive, third person singular, and indicative. Because it is perfect passive, it means was put next to. 
 (9) What is the antecedent of eam?✅
 Eam refers to Hesiones. 
 
 Translation: 
-Hercules killed Antaeus, the son of Earth, in Libya. Antaeus was killing his guests. Hercules slayed them by wrestling. He killed Cygnus, son of Mars, with weapons. Mars came with weapons on account of his son to fight with him but Iouis sent a lightning bolt in between them. Hesione was placed next the whale at Troy. The whale died. Hercules killed Laomedon, the father of Hesione, with arrows, because Laomedon did not return her (to Hercules). 
+Hercules killed Antaeus, the son of Earth, in Libya. Antaeus was killing his guests. Hercules slayed him by wrestling. He killed Cygnus, son of Mars, with weapons. Mars came with weapons on account of his son to fight with him but Iouis sent a lightning bolt in between them. Hesione was placed next the whale at Troy. Hercules killed the whale. Hercules killed Laomedon, the father of Hesione, with arrows, because Laomedon did not return her (to Hercules). 
