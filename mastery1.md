@@ -12,31 +12,31 @@ Misit: to send in third person singular, perfect active indicative
 
 The previous god (prior deus): dei (2nd declension) ❌ 
 Singular:
-Nominative: deus priorus, deum priorum
-Genitive: dei priori
-Dative: deo prioro
-Accusative: deum priorum 
-Ablative: deo prioro 
+Nominative: deus prior
+Genitive: dei prioris
+Dative: deo priori
+Accusative: deum priorem
+Ablative: deo priori
 Plural:
-Nominative: dei priori, dea priora 
-Genitive: deorum priorum 
-Dative: deis prioris
-Accusative: deos prioros 
-Ablative: deis prioris 
+Nominative: dei priores
+Genitive: deorum priorium 
+Dative: deis prioris ... prioribus
+Accusative: deos prioros ... priores
+Ablative: deis prioris ... prioribus 
 
 Pronouns: the former-mentioned ship 
 singular:
-Nominative: illa nauis
+Nominative: illa nauis 
 Genitive: illius nauis
 Dative: illi naui
-Accusative: illam nauam❌
-Ablative: illa naua❌
+Accusative: illam nauam❌ ... illam nauem 
+Ablative: illa naua❌ illa naue 
 Plural: 
 Nominative: illae naues
-Genitive: illarum nauum❌
-Dative: illis nauis❌
-Accusative: illas nauas❌
-Ablative: illis nauis❌
+Genitive: illarum nauum❌ illarum nauium
+Dative: illis nauis❌ illis nauibus
+Accusative: illas nauas❌ illas naues
+Ablative: illis nauis❌ illis nauibus
 
 Verbs: third person singular capio:  ✅
 Perfect active: cepit
@@ -46,6 +46,6 @@ Imperfect Passive: capiebatur
 
 Verbs: third person plural uideo 
 Perfect active: uiserunt  
-Perfect Passive: uida sunt  ❌ 
+Perfect Passive: uida sunt  ❌ uisi, uisae, uisa sunt 
 Imperfect Active: uidebant
 Imperfect Passive: uidebantur
