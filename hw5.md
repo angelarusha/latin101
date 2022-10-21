@@ -5,15 +5,18 @@ Meleager filius erat Oinei, regis Caludonis.✅
 
 His mother was Althaea.
 Is matris erat Althea. ❌
+Eius mater Althaea. 
 
 That woman was the daughter of Thestius.
 Illa erat filia Thesti. ✅
 
-The brothers of Althaea were killed by Meleager.
+The brothers of Althaea were killed. 
 Fratres Althaea erant interficebatur a Meleager. ❌
+Fratres Althaeae interfecti sunt. 
 
 A large number of his sisters were changed into birds, but not the beautiful Deianira.
 Numerus magnum eius sororum erunt❌…. Deianira formosa
+Sororum numerus eius ... Deianira formosa. 
 
 She was the daughter of Dexamenus, according to some stories, but the daughter of Oineus in other versions.
 Ea erat filia Dexameni … filia Oinei ✅
