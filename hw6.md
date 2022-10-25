@@ -16,4 +16,5 @@ Apollo, the son of the latter woman, killed the sons of the former woman.
 	Apollo, filius illius, hanc filios interfecit. 
 
 His sister Diana killed her daughters.
-Eius soror Diana interfecit filiarum. ❌
+Eius soror Diana interfecit filiarum. ❌ 
+Eius soror Diana interfecit filias. 
