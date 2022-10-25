@@ -12,7 +12,7 @@ Imperfect Passive: audībantur  ❌ audiebantur
 
 Perfect active: cēpit 
 Perfect Passive: captus est / capta est 
-Imperfect Active: capĕbat  ❌ capiebat
+Imperfect Active: capĕbat  ❌ capiebat 
 Imperfect Passive: capĕbatur  ❌ capiebatur
 
 Identify: Person, number, tense, mood, voice, first principal part 
