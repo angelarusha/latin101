@@ -2,6 +2,6 @@ fuissent
 Cepissent 
 Ceperunt 
 Capta esset 
-Caperent 
+Capiebant/caperent 
 Dixisset 
 Uiderunt 
