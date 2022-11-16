@@ -1,7 +1,7 @@
 fuissent 
 Cepissent 
 Ceperunt 
-Capti esset 
+Capta esset 
 Caperent 
 Dixisset 
 Uiderunt 
