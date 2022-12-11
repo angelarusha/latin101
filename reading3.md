@@ -10,5 +10,6 @@ Cum id in lines 4-5 is in indicative mood and the accusative case. Cum is used a
 Ei in line 6 is in the nominative plural case referring to “they” the Trojans.❌ Ei is in the dative case refering to "her" as Cassandra; indicating trust was not given to her.  
 Exierunt comes from the verb exeo. 
 Translation: 
-When the Acheans had been in Troy for ten years, Epeus made a wooden horse of amazing size. Menelaus, Ulysses, Diomedes, Thessander, Sthenelusm Acamad, Thomas, Machaon, Neoptolemus were collected in that. And in the horse they wrote “Danai gave a gift to Minerva” and carried the military camp over to Tenedo. When the Trojans saw this, Priamus led the horse to Minerva. Although Cassandra said that the horse held enemies, belief was not given to her and they put the horse under❌ the temple. The Greeks killed the guards and Troy was acquired.  
-  at the temple. 
+When the Acheans had been in Troy for ten years, Epeus made a wooden horse of amazing size. Menelaus, Ulysses, Diomedes, Thessander, Sthenelusm Acamad, Thomas, Machaon, Neoptolemus were collected in that. And in the horse they wrote “Danai gave a gift to Minerva” and carried the military camp over to Tenedo. When the Trojans saw this, Priamus led the horse to Minerva. Although Cassandra said that the horse held enemies, belief was not given to her and they put the horse under❌ the temple. New translation: they made the horse a temple/set it up as a temple. 
+The Greeks killed the guards and Troy was acquired.  
+
