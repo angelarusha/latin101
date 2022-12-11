@@ -2,10 +2,17 @@
 
 Cum Achivi decem annos Troiam non capere potissent❌ capere non possent, ei equum fecerunt. 
 
+Hyginus scripsit equum ab Epei❌ ab Epeio factum esse.
 
-Hyginus scripsit equum ab Epei❌  factum esse. Achivi se in equo absconditerunt. Cassandra diceret❌  equum habere hostes sed ei❌  non audierunt. Troiae crediterunt❌ crediderunt Achivos ab eo.  ❓ *Still need a verb here for the indirect statement...* 
+Achivi se in equo absconditerunt. 
 
-Ea nocte, cum Troiani possuissent equum 
+Cassandra diceret❌ dixit  
+  equum habere hostes sed ei❌  non audierunt. illi non crediderunt.
+  
+ Troiae crediterunt❌ crediderunt Achivos ab eo.❓ *Still need a verb here for the indirect statement...* 
+Troiae crediderunt Achivos ex eo. 
+
+Illa nocte, cum Troiani possuissent equum. 
 
 
 
