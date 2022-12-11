@@ -15,13 +15,13 @@ Accusative: hos imprudentes filios
 Ablative: his imprudentibus filiis 
 
 Case Usage:  **Please include question so we can review easily from this.**
-in agri  ❌
+in agri  ❌ in agros. 
 cum eius filiis 
-Eo tempori  ❌
+Eo tempori  ❌ Ille tempus.  
 Non poterat ire 
-Uelobant❌ agere 
+Uelobant❌ agere (this is the answer we went over in class) 
 Se 
 Multas horas 
 Ab eius filiis 
-Erat ei et erant eius eis ❌
- Ea noctis ❌
+Erat ei et erant eius eis ❌ ea et ea	filiorum. 
+ Ea noctis ❌ Illa nocte 
