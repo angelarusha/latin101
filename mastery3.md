@@ -14,7 +14,7 @@ Perfect infinitive passive: ductus esse
 
 
 UENIO:
-Imperfect indicative Active: ueniebatur
+Imperfect indicative Active: ueniebant
 Imperfect indicative Passive: ueniebantur 
 Imperfect subjunctive Active: ueniret 
 Imperfect subjunctive Passive: ueniretur 
