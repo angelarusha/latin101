@@ -17,11 +17,11 @@ Ablative: his imprudentibus filiis
 Case Usage:  **Please include question so we can review easily from this.**
 in agri  ❌ in agros. 
 cum eius filiis 
-Eo tempori  ❌ Ille tempus.  
+Eo tempori  ❌ Eo tempore 
 Non poterat ire 
-Uelobant❌ agere (this is the answer we went over in class) 
+Uelobant❌ agere uolebant agere OR volebant agere 
 Se 
 Multas horas 
 Ab eius filiis 
-Erat ei et erant eius eis ❌ ea et ea	filiorum. 
- Ea noctis ❌ Illa nocte 
+Erat ei et erant eius eis ❌ sibi eis et filiis 
+ Ea noctis ❌ Ea nocte 
